@@ -63,16 +63,8 @@ CentroSalud (clase gestora principal)
 | `Servicio.h` | Clase independiente para servicios médicos |
 | `Atencion.h` | Clase independiente para atenciones |
 
-## Compilación
-
-El proyecto fue desarrollado en **Visual Studio** (Windows). Para compilar:
+El proyecto fue desarrollado en Visual Studio. Para compilar:
 
 1. Abrir Visual Studio y crear un proyecto de consola C++ vacío
 2. Agregar todos los archivos `.h` y `Centro_de_Salud.cpp` al proyecto
-3. Compilar y ejecutar (Ctrl + F5)
-
-## Tecnologías
-
-- C++
-- Visual Studio (IDE)
-- Programación Orientada a Objetos
+3. Compilar y ejecutar
